@@ -79,4 +79,11 @@ A set of tools provided by the `langchain_core` library includes:
 2. “What is the real-time price of AAPL?”
 3. “What is the debt-to-equity ratio for Tesla?”
 
+---
+
+## Output:
+![Queries and Response]([image_url](https://github.com/Vedant01/Trady-FinanceAI_LangGraph/blob/main/output%20(2).png))
+
+---
+
 By combining advanced AI with real-time financial tools, this project demonstrates a robust and scalable intelligent finance assistant.
