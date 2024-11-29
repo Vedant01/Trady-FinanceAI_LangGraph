@@ -82,7 +82,7 @@ A set of tools provided by the `langchain_core` library includes:
 ---
 
 ## Output:
-![Queries and Response]([image_url](https://github.com/Vedant01/Trady-FinanceAI_LangGraph/blob/main/output%20(2).png))
+![Queries and Response](output%20(2).png)
 
 ---
 
